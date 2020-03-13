@@ -75,7 +75,7 @@ header{
 
 /* top holder */
 .top_holder{
-    background-image: url(./img/onbackside.png);
+    background-image: url(../img/onbackside.png);
     position: relative;
     width: 1600px;
     height: 600px;
