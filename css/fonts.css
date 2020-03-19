@@ -78,7 +78,7 @@ header{
 .top_holder{
     background-image: url(../img/onbackside.png);
     position: relative;
-    background-size: initial;
+    background-size: cover;
     height: 600px;
     display: flex;
     justify-content: center;
