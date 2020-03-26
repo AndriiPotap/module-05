@@ -19,7 +19,7 @@ header{
     margin: 0 auto;
 }
 .container_main{
-    width: 1600px;
+    width: 100%;
     margin: 0 auto;
 }
 .container_footer{
@@ -87,7 +87,7 @@ header{
     position: absolute;
     background: black;
     opacity: .522;
-    width: 1600px;
+    width: 100%;
     height: 600px;
 }
 
