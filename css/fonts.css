@@ -23,8 +23,8 @@ header{
     margin: 0 auto;
 }
 .container_footer{
-    width: 1600px;
-    height: 88px;
+    width: 100%;
+    height: 60px;
     margin: 0 auto;
     background-color: #323232;
     padding-top: 30px;
